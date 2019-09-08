@@ -1,2 +1,2 @@
 # pyculator
-Implement a  calculator by Python.
+Implement a calculator by Python.
